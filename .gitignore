@@ -1,0 +1,16 @@
+# Chrome Extension specific files and folders
+node_modules/
+*.log
+*.bak
+*.zip
+*.crx
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
